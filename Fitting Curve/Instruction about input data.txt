@@ -1,0 +1,4 @@
+Input Data.xlsx contains the input data format.
+Sheet1 is the format of input data.
+Other sheets are just some calculation example (not required for your input)
+Sheet1 is only read by program not other sheets. Also note, Sheet1 should be the first sheet.
